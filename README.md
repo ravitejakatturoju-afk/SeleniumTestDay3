@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Selenium Test Automation Framework
 
 ## Overview
@@ -48,3 +49,6 @@ mvn test -Dtest=EcommerceTest#testUserRegistration
 - Headless/headed mode support
 - Proper test dependencies and priorities
 - Comprehensive assertions
+=======
+# SeleniumTestDay3
+>>>>>>> 4ab9421010ce86bd8e3298429227a11f69598a3d

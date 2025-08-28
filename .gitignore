@@ -1,4 +1,5 @@
 target/
+<<<<<<< HEAD
 *.class
 *.log
 .idea/
@@ -8,3 +9,21 @@ target/
 .classpath
 test-output/
 screenshots/
+=======
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://maven.apache.org/wrapper/#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+>>>>>>> 4ab9421010ce86bd8e3298429227a11f69598a3d
